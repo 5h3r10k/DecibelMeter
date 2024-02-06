@@ -1,0 +1,5 @@
+DecibelMeter    KEYWORD1
+begin   KEYWORD2
+readDecibels    KEYWORD2
+setDeviceAddress    KEYWORD2
+setRegisterAddress  KEYWORD2
